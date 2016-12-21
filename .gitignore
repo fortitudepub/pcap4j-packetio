@@ -1,0 +1,6 @@
+.git
+.idea
+*.iml
+rocksaw/target
+app/target
+*~
